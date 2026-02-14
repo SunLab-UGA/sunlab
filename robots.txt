@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://sunlab-uga.github.io/sunlab//sitemap.xml
+Sitemap: https://sunlab-uga.github.io/sunlab/sitemap.xml
