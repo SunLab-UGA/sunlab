@@ -1,15 +1,18 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
-description: A growing collection of your cool projects.
+title: research
+permalink: /research/
+description: research directions in wireless communications, sensing, security, and edge learning.
 nav: true
-nav_order: 3
-display_categories: [work, fun]
-horizontal: false
+nav_order: 2
+display_categories: [research]
+horizontal: true
 ---
 
-<!-- pages/projects.md -->
+SunLab studies wireless communication and networking systems for 5G and beyond. The lab combines theory, measurement, simulation, and prototyping, with a particular focus on radio-aware AI, edge computing, sensing, IoT, and secure cyber-physical systems.
+
+We are always looking for highly motivated undergraduate and graduate students. If you are interested in these topics, please contact Prof. Sun with your CV.
+
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
