@@ -19,6 +19,18 @@ strong {
   color: var(--global-text-color);
 }
 
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.post-title,
+.projects h2.category,
+.publications h2 {
+  font-weight: 700;
+}
+
 hr {
   border-top: 1px solid var(--global-divider-color);
 }

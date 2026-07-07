@@ -15,17 +15,19 @@ nav_order: 4
 
 ## Students
 
-**Hanwen Zhang** works with SunLab on wireless systems research, including experimental wireless networking and AERPAW-based radio testbed work.
+**Hanwen Zhang, P.h.D.** works with SunLab on wireless systems research, including experimental wireless networking and AERPAW-based radio testbed work.
 
-**Paul Kudyba** works on autonomous agricultural monitoring with aerial drones and RF energy-harvesting sensor tags. He also contributed to SunLab's NSF AERPAW Find a Rover Challenge work.
+**Paul Kudyba, M.S.** works on autonomous agricultural monitoring with aerial drones and RF energy-harvesting sensor tags. He also contributed to SunLab's NSF AERPAW Find a Rover Challenge work.
 
 **Xiaona Gao** works on spectrum- and energy-efficient IoT communications, including cognitive backscatter and hybrid active-passive wireless communication systems.
 
 **John Song** is an REU student working on wireless channel simulation for SunLab's communication and channel modeling projects.
 
-**Sterling Strohauer** works on low-power wireless and backscatter communication systems, including FM backscatter communication prototypes.
+**Sterling Strohauer, Undergraduate** works on low-power wireless and backscatter communication systems, including FM backscatter communication prototypes.
 
-**Lihao** contributes to SunLab's AERPAW radio experimentation and field-test activities.
+**Lihao Zhang, P.h.D.** contributes to SunLab's AERPAW radio experimentation and field-test activities.
+
+**Ethan Zhu, UC Berkeley Intern** spatial digital twin and signal visualization and Meta Quest. 
 
 ## Alumni And Collaborators
 
