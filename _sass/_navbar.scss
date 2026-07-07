@@ -7,8 +7,8 @@
 .navbar {
   box-shadow: none;
   border-bottom: 1px solid var(--global-divider-color);
-  background-color: var(--global-bg-color);
-  opacity: 0.95;
+  background-color: #ffffff;
+  opacity: 1;
 }
 
 .navbar .dropdown-menu,
@@ -56,14 +56,20 @@
   }
 
   .navbar-brand {
-    color: var(--global-text-color);
-  }
-
-  .navbar-nav .nav-item .nav-link {
-    color: var(--global-text-color);
+    color: #000000;
 
     &:hover {
       color: var(--global-hover-color);
+    }
+  }
+
+  .navbar-nav .nav-item .nav-link {
+    color: #000000;
+    text-decoration: none;
+
+    &:hover {
+      color: var(--global-hover-color);
+      text-decoration: none;
     }
   }
 
@@ -71,9 +77,12 @@
     background-color: inherit;
     font-weight: bolder;
     color: var(--global-theme-color);
+    text-decoration: underline;
+    text-underline-offset: 0.25rem;
 
     &:hover {
       color: var(--global-hover-color);
+      text-decoration: underline;
     }
   }
 

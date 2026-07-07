@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Assistant Professor, <a href='https://www.engineering.uga.edu/schools/sece'>School of Electrical and Computer Engineering</a>, <a href='https://www.uga.edu'>University of Georgia</a>
 

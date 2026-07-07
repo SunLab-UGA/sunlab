@@ -3,7 +3,7 @@ layout: page
 title: NSF-CRII
 permalink: /nsf-crii/
 description: NSF CRII project on spectrum- and energy-efficient large-scale IoT communications.
-nav: true
+nav: false
 nav_order: 3
 ---
 

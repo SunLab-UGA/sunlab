@@ -3,7 +3,7 @@ layout: page
 title: Open RRF
 permalink: /open-rrf/
 description: Open radio radiance field code, demos, and project links from SunLab.
-nav: true
+nav: false
 nav_order: 6
 ---
 

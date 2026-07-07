@@ -1,6 +1,6 @@
 ---
 layout: page
-title: research
+title: Research
 permalink: /research/
 description: research directions in wireless communications, sensing, security, and edge learning.
 nav: true
@@ -18,7 +18,7 @@ We are always looking for highly motivated undergraduate and graduate students. 
   <!-- Display categorized projects -->
   {% for category in page.display_categories %}
   <a id="{{ category }}" href=".#{{ category }}">
-    <h2 class="category">{{ category }}</h2>
+    <h2 class="category">Research Areas</h2>
   </a>
   {% assign categorized_projects = site.projects | where: "category", category %}
   {% assign sorted_projects = categorized_projects | sort: "importance" %}
@@ -65,4 +65,12 @@ We are always looking for highly motivated undergraduate and graduate students. 
   </div>
   {% endif %}
 {% endif %}
+</div>
+
+<h2 id="publications">Publications</h2>
+
+<div class="publications">
+
+{% bibliography %}
+
 </div>
