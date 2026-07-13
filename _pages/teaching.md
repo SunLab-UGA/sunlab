@@ -37,18 +37,3 @@ calendar: false
 
 - CompSCI 222: Intermediate C++ (Fall)
 - CompSCI 174: Intro C++ (Fall, 2 sections)
-
-# Student Advising
-
-## Undergraduate
-
-- Jacob Gasser
-- Riley Redfern
-- Shane Flynn
-- Many more listed on Prof. Sun's CV.
-
-## Graduate
-
-- Tilak Basnet (UWW Graduate Research Award)
-- David Buchheit
-- Xiang Ma (co-advised with Prof. Hu)

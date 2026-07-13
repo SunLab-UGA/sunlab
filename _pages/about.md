@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I direct the Signal and Networking Lab (SunLab) at the University of Georgia. Our research spans wireless communication for 5G and beyond, machine learning for precise channel modeling, efficient edge computing, wireless security, wireless systems for distributed learning, and cyber-physical systems.
+I direct the Scalable and Ubiqitous Networking Lab (SunLab) at the University of Georgia. Our research spans wireless communication for 5G and beyond, machine learning for precise channel modeling, efficient edge computing, wireless security, wireless systems for distributed learning, and cyber-physical systems.
 
 My work combines theoretical wireless research with system design, measurement, and prototyping. Recent SunLab projects include radio radiance fields for wireless channel representation, mmWave communication for connected and automated vehicles, ultra-low-power IoT communication, edge computing and learning, wireless sensing, and physical-layer security.
 
