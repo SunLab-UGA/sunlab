@@ -7,18 +7,11 @@ if (searchTheme === "dark") {
   ninjaKeys.classList.remove("dark");
 }
 
-const openSearchModal = async () => {
+const openSearchModal = () => {
   // collapse navbarNav if expanded on mobile
   const $navbarNav = $("#navbarNav");
   if ($navbarNav.hasClass("show")) {
     $navbarNav.collapse("hide");
   }
-
-  await customElements.whenDefined("ninja-keys");
   ninjaKeys.open();
 };
-
-const searchToggle = document.querySelector("#search-toggle");
-if (searchToggle) {
-  searchToggle.addEventListener("click", openSearchModal);
-}
