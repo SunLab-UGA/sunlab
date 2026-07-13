@@ -1,23 +1,10 @@
 cv:
   name: Haijian Sun
-  label: Assistant Professor of Electrical and Computer Engineering
+  headline: Assistant Professor of Electrical and Computer Engineering
   email: hsun@uga.edu
   phone: "+1 706-542-1531"
   website: https://sunlab.uga.edu
   location: Athens, Georgia
-  image: ""
-  summary: >-
-    Haijian Sun directs the Signal and Networking Lab at the University of Georgia. His research spans
-    AI-native wireless and learning systems, wireless intelligence and edge autonomy, and experimental
-    wireless systems and prototyping.
-
-  address:
-    street: 200 D. W. Brooks Drive, Boyd Graduate Research Center, Suite 111
-    city: Athens
-    region: GA
-    postalCode: "30602"
-    countryCode: US
-
   sections:
     Research Interests:
       - label: AI-Native Wireless and Learning Systems
@@ -31,7 +18,7 @@ cv:
       - institution: Utah State University
         location: Logan, UT, USA
         area: Electrical and Computer Engineering
-        studyType: Ph.D.
+        degree: Ph.D.
         start_date: 2014
         end_date: 2019
         highlights:
@@ -41,13 +28,13 @@ cv:
       - institution: Xidian University
         location: Xi'an, China
         area: Electrical Engineering (Telecommunication)
-        studyType: M.S.
+        degree: M.S.
         start_date: 2011
         end_date: 2014
       - institution: Xidian University
         location: Xi'an, China
         area: Electrical Engineering (Telecommunication)
-        studyType: B.S.
+        degree: B.S.
         start_date: 2007
         end_date: 2011
 
@@ -56,7 +43,7 @@ cv:
         position: Assistant Professor of Electrical and Computer Engineering
         location: Athens, GA
         start_date: 2022
-        end_date: Present
+        end_date: present
       - company: University of Wisconsin-Whitewater
         position: Assistant Professor of Computer Science
         location: Whitewater, WI
@@ -69,40 +56,40 @@ cv:
         end_date: 2018-08
 
     Honors and Awards:
-      - title: Emerging Scholar Research Award
+      - name: Emerging Scholar Research Award
         date: 2026
         awarder: University of Georgia College of Engineering
         summary: Recognizes scholarly excellence among assistant professors.
-      - title: Best Paper Award
+      - name: Best Paper Award
         date: 2024
         awarder: IEEE ISICN
-      - title: Find a Rover Challenge Award
+      - name: Find a Rover Challenge Award
         date: 2024
         awarder: NSF Platforms for Advanced Wireless Research
-      - title: CISE Research Initiation Initiative (CRII) Award
+      - name: CISE Research Initiation Initiative (CRII) Award
         date: 2022
         awarder: National Science Foundation
-      - title: Engineering Research Initiative (ERI) Award
+      - name: Engineering Research Initiative (ERI) Award
         date: 2022
         awarder: National Science Foundation
-      - title: Chancellor's Innovation Award for Computer Science
+      - name: Chancellor's Innovation Award for Computer Science
         date: 2022
         awarder: University of Wisconsin-Whitewater
-      - title: Regent Scholar Award
+      - name: Regent Scholar Award
         date: 2021
         awarder: University of Wisconsin System
         summary: The UW System's faculty award for excellence in undergraduate research.
-      - title: Ph.D. Scholar of the Year
+      - name: Ph.D. Scholar of the Year
         date: 2019
         awarder: Utah State University
-      - title: ESI Highly Cited Papers
+      - name: ESI Highly Cited Papers
         date: 2019
         awarder: Clarivate
         summary: Top 1% wireless communication journal publications in 2018 and 2019.
-      - title: National Scholarship
+      - name: National Scholarship
         date: 2012
         awarder: Ministry of Education of the People's Republic of China
-      - title: Distinguished Scholarship
+      - name: Distinguished Scholarship
         date: 2012
         awarder: Xidian University
         summary: Awarded to students in the top 5%.

@@ -9,7 +9,7 @@ nav_order: 4
 
 ## Director
 
-**Haijian Sun** directs the Signal and Networking Lab at the University of Georgia. His research interests include wireless communications and networking, radio-aware machine learning, edge computing, IoT systems, wireless sensing, and physical-layer security.
+**Haijian Sun** directs the Scalable and Ubiqitous Networking Lab at the University of Georgia. His research interests include wireless communications and networking, radio-aware machine learning, edge computing, IoT systems, wireless sensing, and physical-layer security.
 
 ## Students
 
@@ -23,7 +23,7 @@ nav_order: 4
 
 **Sterling Strohauer, Undergraduate** works on low-power wireless and backscatter communication systems, including FM backscatter communication prototypes.
 
-**Ethan Zhu, UC Berkeley Intern** spatial digital twin and signal visualization on Meta Quest 3. 
+**Ethan Zhu, UC Berkeley Intern** spatial digital twin and signal visualization on Meta Quest 3.
 
 ## Alumni And Collaborators
 
