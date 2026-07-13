@@ -30,6 +30,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/sunlab/teaching/";
           },
+        },{id: "nav-cv",
+          title: "CV",
+          description: "Academic background, appointments, awards, funded research, teaching, advising, and professional service.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/sunlab/cv/";
+          },
         },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
