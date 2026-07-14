@@ -38,7 +38,17 @@ cv:
         start_date: 2007
         end_date: 2011
 
-   Industry Experience:
+    Experience:
+      - company: University of Georgia
+        position: Assistant Professor of Electrical and Computer Engineering
+        location: Athens, GA
+        start_date: 2022
+        end_date: present
+      - company: University of Wisconsin-Whitewater
+        position: Assistant Professor of Computer Science
+        location: Whitewater, WI
+        start_date: 2019
+        end_date: 2022
       - company: Mitsubishi Electric Research Laboratories (MERL)
         position: Research Intern
         location: Cambridge, MA
@@ -72,6 +82,17 @@ cv:
       - name: Ph.D. Scholar of the Year
         date: 2019
         awarder: Utah State University
+      - name: ESI Highly Cited Papers
+        date: 2019
+        awarder: Clarivate
+        summary: Top 1% wireless communication journal publications in 2018 and 2019.
+      - name: National Scholarship
+        date: 2012
+        awarder: Ministry of Education of the People's Republic of China
+      - name: Distinguished Scholarship
+        date: 2012
+        awarder: Xidian University
+        summary: Awarded to students in the top 5%.
 
     Funded Research:
       - bullet: "**Rethinking Wireless Channel Through the Lens of Radiance Field** — Lead PI, NSF CCSS; $480K total, $280K UGA share; with Virginia Tech (2025–2028)."
@@ -81,17 +102,33 @@ cv:
       - bullet: "**Towards Spectrum- and Energy-Efficient Large-Scale IoT Communications** — Sole PI, NSF CISE CRII; $229,998 (2023–2026)."
       - bullet: "**Find a Rover Challenge Award** — Sole PI, NSF AERPAW; $2,000 unrestricted gift (2024)."
       - bullet: "**Toward mmWave Vehicular Communication: A Multisensor Multimodal Deep Data Fusion Approach** — Sole PI, NSF ECCS ERI; $199,955 (2022–2024)."
+      - bullet: "**28 GHz mmWave Dual Channel Device** — Sole PI, TMYTEK device donation valued at $20,000 (2022)."
       - bullet: "**Multimodal Deep Sensor Fusion for Next-Generation Wireless Vehicle Communications** — Lead PI, UW System Regent Scholar Award; $50K total, $40K share (2021–2022)."
       - bullet: "**Privacy Protection among Community-Dwelling Older Wisconsinites in the Age of IoT** — Co-PI, Thompson Center; $105,757 total, $35,252 share (2021–2022)."
       - bullet: "**Prototype Multimodal Sensors and Wireless Networks for Landslide Monitoring** — Co-PI, UW System Regent Scholar Award; $50K total, $16,666 share (2020–2021)."
       - bullet: "**Dual-Antenna RFID Reader Prototype for Vehicle Localization** — Lead PI, Tokef LLC; $112,051 total, $56,026 share (2020–2021)."
       - bullet: "**UGA intramural funding** — E-Mobility Initiative ($56K), Pre-Seed Grant ($4K), IIPA precision food-supply-chain tracking ($37.5K), and IIPA smart-farming infrastructure ($245K total), 2022–2024."
+      - bullet: "**UW–Whitewater intramural funding** — Research Catalyst Grant, $10K (2021)."
 
     Publication Record:
       - bullet: "Author of 80+ peer-reviewed journal and conference papers, with 3,000+ citations and an h-index of 28 as reported in the July 2026 CV."
       - bullet: "Co-author of *5G and Beyond Wireless Communication Networks* (Wiley, 2024) and a chapter on non-orthogonal multiple access in the *Encyclopedia of Wireless Networks*."
       - bullet: "See the [SunLab publications page](https://sunlab-uga.github.io/sunlab/publications/) for the website bibliography."
-      - bullet: "See [Google Scholar](https://scholar.google.com/citations?user=nHVq0B8AAAAJ&hl=en) for the current publication and citation record." 
+      - bullet: "See [Google Scholar](https://scholar.google.com/citations?user=nHVq0B8AAAAJ&hl=en) for the current publication and citation record."
+
+    Patents:
+      - bullet: "Anti-theft system based on power-line carrier communication and dynamic image detection, China Patent Application 201310421200.X, Publication 103501188A (2013)."
+      - bullet: "Wiring-free indoor Wi-Fi access system based on power-line carrier communications, China Patent Application 201310069145.2, Publication 103200700A (2013)."
+
+    Student Advising:
+      - label: Graduate Students
+        details: Lihao Zhang, Hanwen Zhang, Paul Kudyba, Xiang Ma, and Tilak Basnet.
+      - label: Undergraduate Students at UGA
+        details: John Song, Andrew Primiano, Austin Song, Nivedha Natarajan, Sterling Strohauer, and Wayne Lam.
+      - label: Undergraduate Students at UW–Whitewater
+        details: Jacob Gasser, Riley Redfern, Shane Flynn, Kevin Marks, Dakota Vaughn, Christian Ayon, Jake Schnor, Colin Janaes, David Ascherl, Javin Herath, Brodie Peyer, JT Anderson, Bryce Erdman, Caitlin Seibel, Jeremy Angles, Brett Steck, Nick Huffman, and Gabriel Lewis.
+      - label: K–12 Students
+        details: Ethan Zhu, Green Canyon High School (2019–2023; now at UC Berkeley).
 
     Selected Student Achievements:
       - bullet: "Paul Kudyba, Hanwen Zhang, and Lihao Zhang received competitive student travel grants for IEEE INFOCOM and ICC (2024)."
@@ -126,3 +163,8 @@ cv:
       - bullet: "Completed more than 200 reviews for leading IEEE and ACM journals and conferences."
       - bullet: "Co-chair, IEEE Future Networks Massive MIMO group (2018–2021)."
       - bullet: "University service includes UGA ECE graduate program, curriculum, and faculty search committees, as well as extensive program and committee leadership at UW–Whitewater."
+
+    Media Coverage:
+      - bullet: "NSF coverage of SunLab's AERPAW Find a Rover Challenge award."
+      - bullet: "UW–Whitewater feature: *Hands-on Research with an Impact, Making Self-driving Cars Smarter*."
+      - bullet: "Coverage by Spectrum News 1, *The Gazette*, the University of Wisconsin System, and the UW–Whitewater News Room for cybersecurity education, research, and the Regent Scholar Award."
