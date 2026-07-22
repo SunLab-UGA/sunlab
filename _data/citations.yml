@@ -1,16 +1,16 @@
 metadata:
-  last_updated: '2026-07-03'
+  last_updated: '2026-07-22'
 papers:
   nHVq0B8AAAAJ:-FonjvnnhkoC:
-    citations: 6
+    citations: 7
     title: 'Movable antenna-aided broadcast packet erasure channels: Capacity with dynamic position plan'
     year: '2024'
   nHVq0B8AAAAJ:08ZZubdj9fEC:
-    citations: 62
+    citations: 63
     title: 'When machine learning meets spectrum sharing security: Methodologies and challenges'
     year: '2022'
   nHVq0B8AAAAJ:0KyAp5RtaNEC:
-    citations: 25
+    citations: 27
     title: 'Wisegrt: Dataset for site-specific indoor radio propagation modeling with 3d segmentation and differentiable ray-tracing'
     year: '2024'
   nHVq0B8AAAAJ:0N-VGjzr574C:
@@ -26,7 +26,7 @@ papers:
     title: Towards green mobile edge computing offloading systems with security enhancement
     year: '2020'
   nHVq0B8AAAAJ:3s1wT3WcHBgC:
-    citations: 248
+    citations: 249
     title: 'UAV-enabled mobile edge computing: Offloading optimization and trajectory design'
     year: '2018'
   nHVq0B8AAAAJ:4TOpqqG69KYC:
@@ -38,7 +38,7 @@ papers:
     title: 'RF-PGS: Fully-structured Spatial Wireless Channel Representation with Planar Gaussian Splatting'
     year: '2025'
   nHVq0B8AAAAJ:4fKUyHm3Qg0C:
-    citations: 31
+    citations: 32
     title: Secrecy performance of backscatter communications with multiple self-powered tags
     year: '2022'
   nHVq0B8AAAAJ:4hFrxpcac9AC:
@@ -46,15 +46,15 @@ papers:
     title: 'Radio Radiance Field: The New Frontier of Spatial Wireless Channel Representation'
     year: '2026'
   nHVq0B8AAAAJ:5qfkUJPXOUwC:
-    citations: 2
+    citations: 5
     title: Autonomous Agricultural Monitoring with Aerial Drones and RF Energy-Harvesting Sensor Tags
     year: '2025'
   nHVq0B8AAAAJ:738O_yMBCRsC:
-    citations: 20
+    citations: 21
     title: Secure and energy-efficient offloading and resource allocation in a NOMA-based MEC network
     year: '2020'
   nHVq0B8AAAAJ:86PQX7AUzd4C:
-    citations: 13
+    citations: 14
     title: Optimizing wireless resource management and synchronization in digital twin networks
     year: '2025'
   nHVq0B8AAAAJ:8d8msizDQcsC:
@@ -70,7 +70,7 @@ papers:
     title: Stochastic geometry based performance study on 5G non-orthogonal multiple access scheme
     year: '2016'
   nHVq0B8AAAAJ:9pM33mqn1YgC:
-    citations: 1
+    citations: 4
     title: 'Collection: UAV-Based RSS Measurements from the AFAR Challenge in Digital Twin and Real-World Environments'
     year: '2025'
   nHVq0B8AAAAJ:B3FOqHPlNUQC:
@@ -102,7 +102,7 @@ papers:
     title: Chordin like-1 regulates osteoblast and adipocyte differentiation through stabilizing insulin-like growth factor binding protein 3
     year: '2023'
   nHVq0B8AAAAJ:FPJr55Dyh1AC:
-    citations: 3
+    citations: 4
     title: 'HoP: Homeomorphic Polar Learning for Hard Constrained Optimization'
     year: '2025'
   nHVq0B8AAAAJ:GtLg2Ama23sC:
@@ -138,11 +138,11 @@ papers:
     title: Optimal and Robust Distributed Resource Allocation for SWIPT-Enabled Cognitive Networks
     year: '2020'
   nHVq0B8AAAAJ:LO7wyVUgiFcC:
-    citations: 2
+    citations: 3
     title: 'MtDB: A Decentralized Multi-Tenant Database for Secure Data Sharing'
     year: '2025'
   nHVq0B8AAAAJ:LjlpjdlvIbIC:
-    citations: 59
+    citations: 61
     title: Agi for agriculture
     year: '2023'
   nHVq0B8AAAAJ:M3ejUd6NZC8C:
@@ -154,11 +154,11 @@ papers:
     title: 'Fingerprinting-based indoor localization with commercial mmWave WiFi-part II: Spatial beam SNRs'
     year: '2019'
   nHVq0B8AAAAJ:OU6Ihb5iCvQC:
-    citations: 57
+    citations: 58
     title: Scheduling policy and power allocation for federated learning in NOMA based MEC
     year: '2020'
   nHVq0B8AAAAJ:P5F9QuxV20EC:
-    citations: 137
+    citations: 139
     title: 'Fingerprinting-Based Indoor Localization with Commercial MMWave WiFi: A Deep Learning Approach'
     year: '2020'
   nHVq0B8AAAAJ:PELIpwtuRlgC:
@@ -170,11 +170,11 @@ papers:
     title: A novel user pairing in downlink non-orthogonal multiple access
     year: '2018'
   nHVq0B8AAAAJ:SeFeTyx0c_EC:
-    citations: 317
+    citations: 318
     title: Artificial noise aided secure cognitive beamforming for cooperative MISO-NOMA using SWIPT
     year: '2018'
   nHVq0B8AAAAJ:SpbeaW3--B0C:
-    citations: 10
+    citations: 11
     title: Channel knowledge map for cellular-connected UAV via binary bayesian filtering
     year: '2025'
   nHVq0B8AAAAJ:Tiz5es2fbqcC:
@@ -186,7 +186,7 @@ papers:
     title: Minimizing total transmission time in hybrid active-passive mutualistic symbiotic radio
     year: '2025'
   nHVq0B8AAAAJ:VL0QpB8kHFEC:
-    citations: 2
+    citations: 3
     title: Energy-Efficient Secure Offloading for NOMA-Enabled Machine-type Mobile-Edge Computing
     year: '2023'
   nHVq0B8AAAAJ:VLnqNzywnoUC:
@@ -194,11 +194,11 @@ papers:
     title: 'Towards Artificial General Intelligence (AGI) in the Internet of Things (IoT): Opportunities and Challenges'
     year: '2023'
   nHVq0B8AAAAJ:VaXvl8Fpj5cC:
-    citations: 11
+    citations: 12
     title: Performance analysis for relay-assisted short-packet backscatter communications
     year: '2024'
   nHVq0B8AAAAJ:WZBGuue-350C:
-    citations: 4
+    citations: 6
     title: Bayesian Optimization for Fast Radio Mapping and Localization with an Autonomous Aerial Drone
     year: '2024'
   nHVq0B8AAAAJ:WbkHhVStYXYC:
@@ -251,14 +251,10 @@ papers:
     year: '2017'
   nHVq0B8AAAAJ:a9-T7VOCCH8C:
     citations: 1
-    title: with Multi-sensor Fusion and Deep Learning
+    title: 'HawkRover: An Autonomous mmWave Vehicular Communication Testbed with Multi-sensor Fusion and Deep Learning'
     year: '2024'
-  nHVq0B8AAAAJ:anf4URPfarAC:
-    citations: 19
-    title: "The vitamin D-Sirt1/PGC1\u03B1 axis regulates bone metabolism and counteracts osteoporosis"
-    year: '2025'
   nHVq0B8AAAAJ:b0M2c_1WBrUC:
-    citations: 120
+    citations: 121
     title: Adaptive federated learning with gradient compression in uplink NOMA
     year: '2020'
   nHVq0B8AAAAJ:b1wdh0AR-JQC:
@@ -278,7 +274,7 @@ papers:
     title: System-centric computation energy efficiency for distributed NOMA-based MEC networks
     year: '2020'
   nHVq0B8AAAAJ:e_rmSamDkqQC:
-    citations: 5
+    citations: 6
     title: Communication-aware consistent edge selection for mobile users and autonomous vehicles
     year: '2024'
   nHVq0B8AAAAJ:edDO8Oi4QzsC:
@@ -314,7 +310,7 @@ papers:
     title: Wireless FEC-less Frame Transmission for Model Aggregation of Distributed Learning Systems
     year: '2024'
   nHVq0B8AAAAJ:k8Z6L05lTy4C:
-    citations: 3
+    citations: 4
     title: Coalitional game theory-based resource allocation strategy for robust IRS-VLC system
     year: '2024'
   nHVq0B8AAAAJ:kuK5TVdYjLIC:
@@ -350,11 +346,15 @@ papers:
     title: 'Collection: Datasets from AFAR Challenge'
     year: '2025'
   nHVq0B8AAAAJ:ruyezt5ZtCIC:
-    citations: 34
+    citations: 37
     title: 'RF-3DGS: Wireless channel modeling with radio radiance field and 3D Gaussian splatting'
     year: '2026'
+  nHVq0B8AAAAJ:sNmaIFBj_lkC:
+    citations: 0
+    title: 'WS05: 6G Connected Robotics for Collaborative Control, Sensing, and Communication'
+    year: Unknown Year
   nHVq0B8AAAAJ:tOudhMTPpwUC:
-    citations: 24
+    citations: 25
     title: User scheduling for federated learning through over-the-air computation
     year: '2021'
   nHVq0B8AAAAJ:tS2w5q8j5-wC:
@@ -366,7 +366,7 @@ papers:
     title: Exploring communication technologies, standards, and challenges in electrified vehicle charging
     year: '2024'
   nHVq0B8AAAAJ:uWiczbcajpAC:
-    citations: 30
+    citations: 32
     title: Joint user scheduling and computing resource allocation optimization in asynchronous mobile edge computing networks
     year: '2024'
   nHVq0B8AAAAJ:u_35RYKgDlwC:
@@ -374,9 +374,13 @@ papers:
     title: Robust Beamforming Design in a NOMA Cognitive Radio Network Relying on SWIPT
     year: '2018'
   nHVq0B8AAAAJ:uc_IGeMz5qoC:
-    citations: 25
+    citations: 27
     title: Precise coil alignment for dynamic wireless charging of electric vehicles with rfid sensing
     year: '2025'
+  nHVq0B8AAAAJ:umqufdRvDiIC:
+    citations: 0
+    title: Feasibility-Aware Learning-to-Optimize for Wireless Resource Allocation
+    year: '2026'
   nHVq0B8AAAAJ:vDijr-p_gm4C:
     citations: 16
     title: 'Spatial channel state information prediction with generative AI: Toward holographic communication and digital radio twin'
@@ -390,11 +394,11 @@ papers:
     title: Model-based Deep Learning for Rate Split Multiple Access in Vehicular Communications
     year: '2024'
   nHVq0B8AAAAJ:yB1At4FlUx8C:
-    citations: 98
+    citations: 99
     title: 'Towards artificial general intelligence (agi) in the internet of things (iot): Opportunities and challenges'
     year: '2023'
   nHVq0B8AAAAJ:yD5IFk8b50cC:
-    citations: 117
+    citations: 116
     title: 'Wearable communications in 5G: Challenges and enabling technologies'
     year: '2018'
   nHVq0B8AAAAJ:ye4kPcJQO24C:
@@ -402,7 +406,7 @@ papers:
     title: 'CSMAAFL: Client scheduling and model aggregation in asynchronous federated learning'
     year: '2024'
   nHVq0B8AAAAJ:zLWjf1WUPmwC:
-    citations: 35
+    citations: 41
     title: 'Physics-informed generalizable wireless channel modeling with segmentation and deep learning: Fundamentals, methodologies, and challenges'
     year: '2024'
   nHVq0B8AAAAJ:z_wVstp3MssC:
