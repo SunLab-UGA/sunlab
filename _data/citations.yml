@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-22'
+  last_updated: '2026-07-27'
 papers:
   nHVq0B8AAAAJ:-FonjvnnhkoC:
     citations: 7
@@ -10,7 +10,7 @@ papers:
     title: 'When machine learning meets spectrum sharing security: Methodologies and challenges'
     year: '2022'
   nHVq0B8AAAAJ:0KyAp5RtaNEC:
-    citations: 27
+    citations: 28
     title: 'Wisegrt: Dataset for site-specific indoor radio propagation modeling with 3d segmentation and differentiable ray-tracing'
     year: '2024'
   nHVq0B8AAAAJ:0N-VGjzr574C:
@@ -34,7 +34,7 @@ papers:
     title: A NOMA and MU-MIMO Supported Cellular Network with Underlaid D2D Communications
     year: '2016'
   nHVq0B8AAAAJ:4fGpz3EwCPoC:
-    citations: 5
+    citations: 6
     title: 'RF-PGS: Fully-structured Spatial Wireless Channel Representation with Planar Gaussian Splatting'
     year: '2025'
   nHVq0B8AAAAJ:4fKUyHm3Qg0C:
@@ -54,7 +54,7 @@ papers:
     title: Secure and energy-efficient offloading and resource allocation in a NOMA-based MEC network
     year: '2020'
   nHVq0B8AAAAJ:86PQX7AUzd4C:
-    citations: 14
+    citations: 17
     title: Optimizing wireless resource management and synchronization in digital twin networks
     year: '2025'
   nHVq0B8AAAAJ:8d8msizDQcsC:
@@ -154,7 +154,7 @@ papers:
     title: 'Fingerprinting-based indoor localization with commercial mmWave WiFi-part II: Spatial beam SNRs'
     year: '2019'
   nHVq0B8AAAAJ:OU6Ihb5iCvQC:
-    citations: 58
+    citations: 59
     title: Scheduling policy and power allocation for federated learning in NOMA based MEC
     year: '2020'
   nHVq0B8AAAAJ:P5F9QuxV20EC:
@@ -170,7 +170,7 @@ papers:
     title: A novel user pairing in downlink non-orthogonal multiple access
     year: '2018'
   nHVq0B8AAAAJ:SeFeTyx0c_EC:
-    citations: 318
+    citations: 317
     title: Artificial noise aided secure cognitive beamforming for cooperative MISO-NOMA using SWIPT
     year: '2018'
   nHVq0B8AAAAJ:SpbeaW3--B0C:
@@ -266,7 +266,7 @@ papers:
     title: 'MuJam-RIS: A DRL Approach for Selective Multi-User Jamming Powered by RIS and Spatial-CSI'
     year: '2025'
   nHVq0B8AAAAJ:dfsIfKJdRG4C:
-    citations: 243
+    citations: 244
     title: Joint offloading and computation energy efficiency maximization in a mobile edge computing system
     year: '2019'
   nHVq0B8AAAAJ:dshw04ExmUIC:
@@ -296,7 +296,7 @@ papers:
   nHVq0B8AAAAJ:g3aElNc5_aQC:
     citations: 10
     title: Resource allocation for mutualistic symbiotic radio with hybrid active-passive communications
-    year: '2025'
+    year: '2023'
   nHVq0B8AAAAJ:g5m5HwL7SMYC:
     citations: 282
     title: Downlink and Uplink Non-Orthogonal Multiple Access in a Dense Wireless Network
@@ -346,7 +346,7 @@ papers:
     title: 'Collection: Datasets from AFAR Challenge'
     year: '2025'
   nHVq0B8AAAAJ:ruyezt5ZtCIC:
-    citations: 37
+    citations: 39
     title: 'RF-3DGS: Wireless channel modeling with radio radiance field and 3D Gaussian splatting'
     year: '2026'
   nHVq0B8AAAAJ:sNmaIFBj_lkC:
@@ -366,7 +366,7 @@ papers:
     title: Exploring communication technologies, standards, and challenges in electrified vehicle charging
     year: '2024'
   nHVq0B8AAAAJ:uWiczbcajpAC:
-    citations: 32
+    citations: 35
     title: Joint user scheduling and computing resource allocation optimization in asynchronous mobile edge computing networks
     year: '2024'
   nHVq0B8AAAAJ:u_35RYKgDlwC:
@@ -406,7 +406,7 @@ papers:
     title: 'CSMAAFL: Client scheduling and model aggregation in asynchronous federated learning'
     year: '2024'
   nHVq0B8AAAAJ:zLWjf1WUPmwC:
-    citations: 41
+    citations: 42
     title: 'Physics-informed generalizable wireless channel modeling with segmentation and deep learning: Fundamentals, methodologies, and challenges'
     year: '2024'
   nHVq0B8AAAAJ:z_wVstp3MssC:
