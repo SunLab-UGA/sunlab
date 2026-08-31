@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-24'
+  last_updated: '2026-08-31'
 papers:
   nHVq0B8AAAAJ:-FonjvnnhkoC:
     citations: 7
@@ -10,7 +10,7 @@ papers:
     title: 'When machine learning meets spectrum sharing security: Methodologies and challenges'
     year: '2022'
   nHVq0B8AAAAJ:0KyAp5RtaNEC:
-    citations: 29
+    citations: 31
     title: 'Wisegrt: Dataset for site-specific indoor radio propagation modeling with 3d segmentation and differentiable ray-tracing'
     year: '2024'
   nHVq0B8AAAAJ:0N-VGjzr574C:
@@ -54,11 +54,11 @@ papers:
     title: Secure and energy-efficient offloading and resource allocation in a NOMA-based MEC network
     year: '2020'
   nHVq0B8AAAAJ:86PQX7AUzd4C:
-    citations: 18
+    citations: 19
     title: Optimizing wireless resource management and synchronization in digital twin networks
     year: '2025'
   nHVq0B8AAAAJ:8d8msizDQcsC:
-    citations: 1
+    citations: 2
     title: Feasibility Guaranteed Learning-to-Optimize in Wireless Communication Resource Allocation
     year: '2025'
   nHVq0B8AAAAJ:9Nmd_mFXekcC:
@@ -126,7 +126,7 @@ papers:
     title: Distributed Resource Allocation for SWIPT-Enabled Cognitive Networks With and Without Perfect CSI
     year: '2020'
   nHVq0B8AAAAJ:JoZmwDi-zQgC:
-    citations: 12
+    citations: 13
     title: Ingr roadmap massive Mimo chapter
     year: '2023'
   nHVq0B8AAAAJ:K3LRdlH-MEoC:
@@ -158,7 +158,7 @@ papers:
     title: 'Fingerprinting-based indoor localization with commercial mmWave WiFi-part II: Spatial beam SNRs'
     year: '2019'
   nHVq0B8AAAAJ:OU6Ihb5iCvQC:
-    citations: 58
+    citations: 59
     title: Scheduling policy and power allocation for federated learning in NOMA based MEC
     year: '2020'
   nHVq0B8AAAAJ:P5F9QuxV20EC:
@@ -174,11 +174,11 @@ papers:
     title: A novel user pairing in downlink non-orthogonal multiple access
     year: '2018'
   nHVq0B8AAAAJ:SeFeTyx0c_EC:
-    citations: 318
+    citations: 319
     title: Artificial noise aided secure cognitive beamforming for cooperative MISO-NOMA using SWIPT
     year: '2018'
   nHVq0B8AAAAJ:SpbeaW3--B0C:
-    citations: 13
+    citations: 14
     title: Channel knowledge map for cellular-connected UAV via binary bayesian filtering
     year: '2025'
   nHVq0B8AAAAJ:Tiz5es2fbqcC:
@@ -270,7 +270,7 @@ papers:
     title: 'MuJam-RIS: A DRL Approach for Selective Multi-User Jamming Powered by RIS and Spatial-CSI'
     year: '2025'
   nHVq0B8AAAAJ:dfsIfKJdRG4C:
-    citations: 233
+    citations: 234
     title: Joint offloading and computation energy efficiency maximization in a mobile edge computing system
     year: '2019'
   nHVq0B8AAAAJ:dshw04ExmUIC:
@@ -302,7 +302,7 @@ papers:
     title: Resource allocation for mutualistic symbiotic radio with hybrid active-passive communications
     year: '2025'
   nHVq0B8AAAAJ:g5m5HwL7SMYC:
-    citations: 281
+    citations: 282
     title: Downlink and Uplink Non-Orthogonal Multiple Access in a Dense Wireless Network
     year: '2017'
   nHVq0B8AAAAJ:hCrLmN-GePgC:
@@ -350,7 +350,7 @@ papers:
     title: 'Collection: Datasets from AFAR Challenge'
     year: '2025'
   nHVq0B8AAAAJ:ruyezt5ZtCIC:
-    citations: 46
+    citations: 47
     title: 'Rf-3dgs: Wireless channel modeling with radio radiance field and 3d gaussian splatting'
     year: '2026'
   nHVq0B8AAAAJ:sNmaIFBj_lkC:
@@ -378,7 +378,7 @@ papers:
     title: Robust Beamforming Design in a NOMA Cognitive Radio Network Relying on SWIPT
     year: '2018'
   nHVq0B8AAAAJ:uc_IGeMz5qoC:
-    citations: 27
+    citations: 29
     title: Precise coil alignment for dynamic wireless charging of electric vehicles with rfid sensing
     year: '2025'
   nHVq0B8AAAAJ:umqufdRvDiIC:
@@ -390,7 +390,7 @@ papers:
     title: 'Spatial channel state information prediction with generative AI: Toward holographic communication and digital radio twin'
     year: '2024'
   nHVq0B8AAAAJ:xtRiw3GOFMkC:
-    citations: 37
+    citations: 38
     title: 'Fingerprinting-based indoor localization with commercial mmWave WiFi-part I: RSS and beam indices'
     year: '2019'
   nHVq0B8AAAAJ:xtoqd-5pKcoC:
