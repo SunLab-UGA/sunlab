@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-31'
+  last_updated: '2026-09-04'
 papers:
   nHVq0B8AAAAJ:-FonjvnnhkoC:
     citations: 7
@@ -10,7 +10,7 @@ papers:
     title: 'When machine learning meets spectrum sharing security: Methodologies and challenges'
     year: '2022'
   nHVq0B8AAAAJ:0KyAp5RtaNEC:
-    citations: 31
+    citations: 32
     title: 'Wisegrt: Dataset for site-specific indoor radio propagation modeling with 3d segmentation and differentiable ray-tracing'
     year: '2024'
   nHVq0B8AAAAJ:0N-VGjzr574C:
@@ -49,6 +49,10 @@ papers:
     citations: 4
     title: Autonomous agricultural monitoring with aerial drones and RF energy-harvesting sensor tags
     year: '2025'
+  nHVq0B8AAAAJ:6ZxmRoH8BuwC:
+    citations: 15
+    title: Von Willebrand factor protects against acute CCl4-induced hepatotoxicity through phospho-p38 MAPK signaling pathway inhibition
+    year: '2017'
   nHVq0B8AAAAJ:738O_yMBCRsC:
     citations: 21
     title: Secure and energy-efficient offloading and resource allocation in a NOMA-based MEC network
@@ -82,7 +86,7 @@ papers:
     title: Joint power and spectrum orchestration for D2D semantic communication underlying energy-efficient cellular networks
     year: '2025'
   nHVq0B8AAAAJ:D03iK_w7-QYC:
-    citations: 29
+    citations: 30
     title: Computation efficiency maximization for wireless-powered mobile edge computing
     year: '2018'
   nHVq0B8AAAAJ:DUooU5lO8OsC:
@@ -130,7 +134,7 @@ papers:
     title: Ingr roadmap massive Mimo chapter
     year: '2023'
   nHVq0B8AAAAJ:K3LRdlH-MEoC:
-    citations: 19
+    citations: 20
     title: Human pose and seat occupancy classification with commercial mmwave WiFi
     year: '2020'
   nHVq0B8AAAAJ:KxtntwgDAa4C:
@@ -237,12 +241,16 @@ papers:
     citations: 12
     title: 'Relay-enabled backscatter communications: Linear mapping and resource allocation'
     year: '2023'
+  nHVq0B8AAAAJ:_5tno0g5mFcC:
+    citations: 0
+    title: 'xTRUCE: A Provably Safe Arbiter for Multi-xApp Conflict Mitigation in Agentic O-RAN'
+    year: '2026'
   nHVq0B8AAAAJ:_FM0Bhl9EiAC:
     citations: 0
     title: GNN Based PLS Enhancement for Next Generation Spectrum Sharing Industrial Networks
     year: '2025'
   nHVq0B8AAAAJ:_axFR9aDTf0C:
-    citations: 16
+    citations: 17
     title: 'Revolutionizing symbiotic radio: Exploiting trade-offs in hybrid active-passive communications'
     year: '2025'
   nHVq0B8AAAAJ:_kc_bZDykSQC:
@@ -398,11 +406,11 @@ papers:
     title: Model-based Deep Learning for Rate Split Multiple Access in Vehicular Communications
     year: '2024'
   nHVq0B8AAAAJ:yB1At4FlUx8C:
-    citations: 99
+    citations: 100
     title: 'Towards artificial general intelligence (agi) in the internet of things (iot): Opportunities and challenges'
     year: '2023'
   nHVq0B8AAAAJ:yD5IFk8b50cC:
-    citations: 117
+    citations: 118
     title: 'Wearable communications in 5G: Challenges and enabling technologies'
     year: '2018'
   nHVq0B8AAAAJ:ye4kPcJQO24C:
